@@ -1,57 +1,45 @@
-# InformeTarea
+                                                      UNIVERSIDAD DE LAS FUERZAS ARMADAS (ESPE)
 
+NOMBRE DEL ESTUDIANTE: TONATO CHALCO JHON ANTHONY
+
+CARRERA: ELECTRÓNICA Y AUTOMATIZACIÓN
+
+NRC:7319
+
+NOMBRE DEL PROFESOR:ING:DARWIN ALULEMA
+
+TEMA: CAPÍTULO 1: CANTIDADES Y UNIDADES CAPÍTULO 2: VOLTAJE, CORRIENTE Y RESISTENCIA
 
 1. OBJETIVOS
-
-Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
-El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación. 
-
-Los objetivos generales dan origen a objetivos específicos que indica lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos específicos los que se investigan y no el objetivo general, ya que este se logra de los resultados. 
-
-Los objetivos de investigación deben cumplir ciertas características: 
-* Deben ser concretos, cuantificables, verificables 
-* Deben estar redactados utilizando verbos en infinitivo 
-* Deben ser alcanzables por el investigador. 
-* Tienen que estar ligados con el tiempo. 
-
-
-Deben presentar directa relación con el tema de investigación y entre sí mismos. Todo trabajo de investigación es evaluado por el logro de los objetivos mediante un proceso sistemático, los cuales deben haber sido previamente señalados y seleccionados al comienzo de la investigación. La sistematización hace posible el planeamiento de estrategias válidas para el logro de objetivos. Por esta razón los objetivos tienen que ser revisados en cada una de las etapas del proceso; el no hacerlo puede ocasionar fallas en la investigación con la misma intensidad en que se presentan fallas en los objetivos. 
-
-Al finalizar la investigación, los objetivos han de ser identificables con los resultados; es decir, toda la investigación deberá estar respondiendo a los objetivos propuestos. 
-
-Considerar la Taxonomía de Bloom
+Analizar los conceptos e identificar las cantidades y unidades de voltaje, corriente y resistente, finalidad de resolver problemas y ejercicios
+Comprobar experimentalmente la resistencia total de una combinación de resistencias en conexión serie-paralelo.
 
 2. MARCO TEÓRICO (RESUMEN)
 
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
-
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
-
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
+![ 2022-05-17 (3) ](https://user-images.githubusercontent.com/105689577/168851255-391bd4e2-942f-4103-aa2f-c6684e2ecb0d.png)
+![ 2022-05-17 (10) ](https://user-images.githubusercontent.com/105689577/168859727-ea011bfa-053c-4907-a7a8-c0b8fe731dcd.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
-La solución deb estar en esta sección, no como un archivo anexo.
+La solución debe estar en esta sección, no como un archivo anexo.
+![ 2022-05-17 (16) ](https://user-images.githubusercontent.com/105689577/168869205-035e94f5-ebd6-4bc0-85e2-f0ae18a8809a.png)
+![ 2022-05-17 (17) ](https://user-images.githubusercontent.com/105689577/168869216-63d3e247-84e3-4d71-bb32-2bc365d98d41.png)
+![ 2022-05-17 (18) ](https://user-images.githubusercontent.com/105689577/168869223-0e57cad0-298e-4084-99b6-bb5e1b1e659f.png)
+![ 2022-05-17 (19) ](https://user-images.githubusercontent.com/105689577/168869226-617e7536-5f49-4fe1-b99d-6852fc338c60.png)
+![ 2022-05-17 (20) ](https://user-images.githubusercontent.com/105689577/168869231-afc0acce-6566-4a99-8ee1-83aaa03b675c.png)
+![ 2022-05-17 (21) ](https://user-images.githubusercontent.com/105689577/168869235-f587e012-2a65-4aa2-bce9-c69feaee8136.png)
+![ 2022-05-17 (22) ](https://user-images.githubusercontent.com/105689577/168869237-b3d72d87-4036-4998-870a-11f5a6a3bc11.png)
 
-4. VIDEO
+4. VÍDEO
 
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
 En el video se debe explicar 4 ejercicios o problemas.
-
 
 5. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+A medida que desarrollamos los ejercicios y tareas sugeridas en los capítulos 1 y 2, nos dimos cuenta de que utilizamos una base importante para analizar y explicar cómo funciona un circuito y cómo fluye la corriente a través de él, ya sea que el circuito en cuestión tenga mas fuentes de voltaje o no. contiene corrientes equivalentes o sin usar teoremas de tensión vistos en clase y analizados en el pdf por nuestra propia revista educativa .
 
 6. BIBLIOGRAFÍA
 
-Emplear normas APA.
-
-RUBRICA
-
-![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
+Normas ejemplares APA.
+McAllister, W. (2018). Academia Khan. Obtenido de Khan Academy: https://es.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/a/ee-numbers-in-electrical-engineering
