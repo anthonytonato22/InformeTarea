@@ -1,37 +1,26 @@
-# InformeTarea
+                                                       UNIVERSIDAD DE LAS FUERZAS ARMADAS (ESPE)
 
+NOMBRE DEL ESTUDIANTE: TONATO CHALCO JHON ANTHONY
+
+CARRERA: ELECTRÓNICA Y AUTOMATIZACIÓN
+
+NRC:7319
+
+NOMBRE DEL PROFESOR:ING:DARWIN ALULEMA
+
+TEMA: CAPÍTULO 5: CIRCUITOS EN SERIE CAPÍTULO 6: CIRCUITOS EN PARALELO
 
 1. OBJETIVOS
 
-Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
-El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación. 
+Analizar o identificar un circuito resistivo en serie  entre los extremos de cadarama de un circuito paralelo, es la misma que la ten-si´on existente entre los extremos de todo el circuitoen paralelo
 
-Los objetivos generales dan origen a objetivos específicos que indica lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos específicos los que se investigan y no el objetivo general, ya que este se logra de los resultados. 
-
-Los objetivos de investigación deben cumplir ciertas características: 
-* Deben ser concretos, cuantificables, verificables 
-* Deben estar redactados utilizando verbos en infinitivo 
-* Deben ser alcanzables por el investigador. 
-* Tienen que estar ligados con el tiempo. 
-
-
-Deben presentar directa relación con el tema de investigación y entre sí mismos. Todo trabajo de investigación es evaluado por el logro de los objetivos mediante un proceso sistemático, los cuales deben haber sido previamente señalados y seleccionados al comienzo de la investigación. La sistematización hace posible el planeamiento de estrategias válidas para el logro de objetivos. Por esta razón los objetivos tienen que ser revisados en cada una de las etapas del proceso; el no hacerlo puede ocasionar fallas en la investigación con la misma intensidad en que se presentan fallas en los objetivos. 
-
-Al finalizar la investigación, los objetivos han de ser identificables con los resultados; es decir, toda la investigación deberá estar respondiendo a los objetivos propuestos. 
-
-Considerar la Taxonomía de Bloom
+Determinar el voltaje a través de cada rama en paralelo y aplicar la ley de la corriente de Kirchhoff.
 
 2. MARCO TEÓRICO (RESUMEN)
 
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
+![2022-06-02 (2)](https://user-images.githubusercontent.com/105689577/171774580-7bb25781-5429-4704-a1af-f9313311dfdd.png)
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
-
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
+![2022-06-02 (3)](https://user-images.githubusercontent.com/105689577/171774586-050377d0-ef24-42b9-a873-94fd59e57fc1.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -45,13 +34,8 @@ En el video se debe explicar 4 ejercicios o problemas.
 
 
 5. CONCLUSIONES
-
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+Podemos ver que el comportamiento del voltaje, el tamaño de corriente y la resistencia total delcircuito var´ıa dependiendo la conexión en la que estese encuentre, llegando a ser en paralelo o en serie, lascuales vamos a poder usar según sea nuestra necesidad.Utilizando conexiones mixtas, es decir, conexiones enserie y en paralelo en el mismo circuito, podremoscontrolar m´as justamente y de una mejor maneralos recursos mencionados previamente y así poder darles el precio deseado 
 
 6. BIBLIOGRAFÍA
 
-Emplear normas APA.
 
-RUBRICA
-
-![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
